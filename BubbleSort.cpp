@@ -73,6 +73,8 @@ void BubbleSort()
 
 int main()
 {
-    input()
+    input();
     BubbleSort();
+    display();
+    return 0;
 }
