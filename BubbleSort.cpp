@@ -74,4 +74,5 @@ void BubbleSort()
 int main()
 {
     input()
+    BubbleSort();
 }
